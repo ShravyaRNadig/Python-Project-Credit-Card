@@ -1,1 +1,1 @@
-# 6th-sem-Project
+# Python Project (Using CGI)
