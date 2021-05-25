@@ -18,7 +18,7 @@ This project is semi-offline project.We extract the data while registration and 
 The transaction mainly done between vendor and user which is taken care by PUF (Physical Unclonable Function) & FRODO, so that the security of the card is not used by the 3rd party( attacker or hacker) and we also used of embedded Cryptography where its not easy for the hackers to find credentials of the transaction made by the user.</p> 
 
 ## Installation
-> IDE <br> <p><ol><li>Sublime</li><li>VS CODE</li><li>Notepad++</li></ol>
+> IDE <p><ol><li>Sublime</li><li>VS CODE</li><li>Notepad++</li></ol>
 > Python
 
  ## Technology stack 💎💎
