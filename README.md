@@ -1,5 +1,10 @@
 # Python Project (Using CGI)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)<br>
+![Repo Size](https://img.shields.io/github/repo-size/ShravyaRNadig/Python-Project-Credit-Card) <br>
+![count](https://img.shields.io/github/languages/count/ShravyaRNadig/Python-Project-Credit-Card) <br>
+![count](https://img.shields.io/github/forks/ShravyaRNadig/Python-Project-Credit-Card?style=social) <br>
+![count](https://img.shields.io/github/watchers/ShravyaRNadig/Python-Project-Credit-Card?style=social) <br>
 
 ## Introduction 🎉
 This project is semi-offline project.We extract the data while registration and use necessary security aspects on confidential data.<br> 
@@ -11,6 +16,10 @@ This project is semi-offline project.We extract the data while registration and 
 
 <p>We also Converted card number such as Credit & Debit card into binary code so that the 3rd party can't access the credentials of the users while transaction and use it for his benefits. <br>
 The transaction mainly done between vendor and user which is taken care by PUF (Physical Unclonable Function) & FRODO, so that the security of the card is not used by the 3rd party( attacker or hacker) and we also used of embedded Cryptography where its not easy for the hackers to find credentials of the transaction made by the user.</p> 
+
+## Installation
+> IDE <br> <p><ol><li>Sublime</li><li>VS CODE</li><li>Notepad++</li></ol>
+> Python
 
  ## Technology stack 💎💎
 
